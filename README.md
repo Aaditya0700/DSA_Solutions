@@ -12,3 +12,5 @@
 | 4 | 987. Vertical Order Traversal of a Binary Tree | LeetCode | Binary Tree | Hard | Choose a type |
 
 | 5 | 107. Binary Tree Level Order Traversal II | LeetCode | Binary Tree | Medium | Choose a type |
+
+| 6 | 235. Lowest Common Ancestor of a Binary Search Tree | LeetCode | Binary Search Tree | Medium | Choose a type |
