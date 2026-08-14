@@ -16,3 +16,5 @@
 | 6 | 235. Lowest Common Ancestor of a Binary Search Tree | LeetCode | Binary Search Tree | Medium | Choose a type |
 
 | 7 | 136. Single Number | LeetCode | Bit Manipulation | Easy | Choose a type |
+
+| 8 | 3090. Maximum Length Substring With Two Occurrences | LeetCode | Sliding Window | Easy | Choose a type |
