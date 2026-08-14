@@ -22,3 +22,5 @@
 | 9 | 113. Path Sum II | LeetCode | Binary Tree | Medium | Choose a type |
 
 | 10 | 662. Maximum Width of Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
+
+| 11 | 1448. Count Good Nodes in Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
