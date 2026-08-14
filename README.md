@@ -18,3 +18,5 @@
 | 7 | 136. Single Number | LeetCode | Bit Manipulation | Easy | Choose a type |
 
 | 8 | 3090. Maximum Length Substring With Two Occurrences | LeetCode | Sliding Window | Easy | Choose a type |
+
+| 9 | 113. Path Sum II | LeetCode | Binary Tree | Medium | Choose a type |
