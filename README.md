@@ -50,3 +50,5 @@
 | 23 | 110. Balanced Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
 
 | 24 | 100. Same Tree | LeetCode | Binary Tree | Easy | Choose a type |
+
+| 25 | 4. Median of Two Sorted Arrays | LeetCode | Binary Search | Hard | Choose a type |
