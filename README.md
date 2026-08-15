@@ -40,3 +40,5 @@
 | 18 | 46. Permutations | LeetCode | Backtracking | Medium | Choose a type |
 
 | 19 | 226. Invert Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
+
+| 20 | 40. Combination Sum II | LeetCode | Backtracking | Medium | Choose a type |
