@@ -36,3 +36,5 @@
 | 16 | 78. Subsets | LeetCode | Backtracking | Medium | Choose a type |
 
 | 17 | 90. Subsets II | LeetCode | Backtracking | Medium | Choose a type |
+
+| 18 | 46. Permutations | LeetCode | Backtracking | Medium | Choose a type |
