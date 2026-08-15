@@ -26,3 +26,5 @@
 | 11 | 1448. Count Good Nodes in Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
 
 | 12 | 39. Combination Sum | LeetCode | Backtracking | Medium | Choose a type |
+
+| 13 | 3702. Longest Subsequence With Non-Zero Bitwise XOR | LeetCode | Bit Manipulation | Medium | Choose a type |
