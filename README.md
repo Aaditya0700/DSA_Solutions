@@ -46,3 +46,5 @@
 | 21 | 104. Maximum Depth of Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
 
 | 22 | 543. Diameter of Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
+
+| 23 | 110. Balanced Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
