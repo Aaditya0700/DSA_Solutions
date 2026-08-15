@@ -34,3 +34,5 @@
 | 15 | 347. Top K Frequent Elements | LeetCode | Heap (Priority Queue) | Medium | Choose a type |
 
 | 16 | 78. Subsets | LeetCode | Backtracking | Medium | Choose a type |
+
+| 17 | 90. Subsets II | LeetCode | Backtracking | Medium | Choose a type |
