@@ -28,3 +28,5 @@
 | 12 | 39. Combination Sum | LeetCode | Backtracking | Medium | Choose a type |
 
 | 13 | 3702. Longest Subsequence With Non-Zero Bitwise XOR | LeetCode | Bit Manipulation | Medium | Choose a type |
+
+| 14 | 49. Group Anagrams | LeetCode | Hash Table | Medium | Choose a type |
