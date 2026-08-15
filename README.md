@@ -30,3 +30,5 @@
 | 13 | 3702. Longest Subsequence With Non-Zero Bitwise XOR | LeetCode | Bit Manipulation | Medium | Choose a type |
 
 | 14 | 49. Group Anagrams | LeetCode | Hash Table | Medium | Choose a type |
+
+| 15 | 347. Top K Frequent Elements | LeetCode | Heap (Priority Queue) | Medium | Choose a type |
