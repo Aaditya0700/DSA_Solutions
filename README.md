@@ -32,3 +32,5 @@
 | 14 | 49. Group Anagrams | LeetCode | Hash Table | Medium | Choose a type |
 
 | 15 | 347. Top K Frequent Elements | LeetCode | Heap (Priority Queue) | Medium | Choose a type |
+
+| 16 | 78. Subsets | LeetCode | Backtracking | Medium | Choose a type |
