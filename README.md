@@ -42,3 +42,5 @@
 | 19 | 226. Invert Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
 
 | 20 | 40. Combination Sum II | LeetCode | Backtracking | Medium | Choose a type |
+
+| 21 | 104. Maximum Depth of Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
