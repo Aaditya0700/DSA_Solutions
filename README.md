@@ -38,3 +38,5 @@
 | 17 | 90. Subsets II | LeetCode | Backtracking | Medium | Choose a type |
 
 | 18 | 46. Permutations | LeetCode | Backtracking | Medium | Choose a type |
+
+| 19 | 226. Invert Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
