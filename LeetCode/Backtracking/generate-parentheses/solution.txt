@@ -1,0 +1,25 @@
+class Solution {
+    void solve(List<String> ans ,StringBuilder s, int n,int o,int c){
+        if(s.length()==2*n){
+            ans.add(s.toString());
+            return;
+        }
+        if(o<n){
+            s.append('(');
+            solve(ans,s,n,o+1,c);
+            s.deleteCharAt(s.length()-1);
+        }
+        if(c<o){
+            s.append(')');
+            solve(ans,s,n,o,c+1);
+            s.deleteCharAt(s.length()-1);
+        }
+
+    }
+    public List<String> generateParenthesis(int n) {
+        List<String> ans = new ArrayList<>();
+        StringBuilder s=new StringBuilder();
+        solve(ans,s,n,0,0);
+        return ans;
+    }
+}
