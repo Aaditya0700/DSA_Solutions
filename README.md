@@ -54,3 +54,5 @@
 | 25 | 4. Median of Two Sorted Arrays | LeetCode | Binary Search | Hard | Choose a type |
 
 | 26 | 2029. Stone Game IX | LeetCode | Greedy | Medium | Choose a type |
+
+| 27 | 22. Generate Parentheses | LeetCode | Backtracking | Medium | Choose a type |
