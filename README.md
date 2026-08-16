@@ -56,3 +56,5 @@
 | 26 | 2029. Stone Game IX | LeetCode | Greedy | Medium | Choose a type |
 
 | 27 | 22. Generate Parentheses | LeetCode | Backtracking | Medium | Choose a type |
+
+| 28 | 112. Path Sum | LeetCode | Binary Tree | Easy | Choose a type |
