@@ -58,3 +58,5 @@
 | 27 | 22. Generate Parentheses | LeetCode | Backtracking | Medium | Choose a type |
 
 | 28 | 112. Path Sum | LeetCode | Binary Tree | Easy | Choose a type |
+
+| 29 | 236. Lowest Common Ancestor of a Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
