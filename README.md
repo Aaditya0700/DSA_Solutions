@@ -52,3 +52,5 @@
 | 24 | 100. Same Tree | LeetCode | Binary Tree | Easy | Choose a type |
 
 | 25 | 4. Median of Two Sorted Arrays | LeetCode | Binary Search | Hard | Choose a type |
+
+| 26 | 2029. Stone Game IX | LeetCode | Greedy | Medium | Choose a type |
