@@ -60,3 +60,5 @@
 | 28 | 112. Path Sum | LeetCode | Binary Tree | Easy | Choose a type |
 
 | 29 | 236. Lowest Common Ancestor of a Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
+
+| 30 | 3471. Find the Largest Almost Missing Integer | LeetCode | Hash Table | Easy | Choose a type |
