@@ -62,3 +62,5 @@
 | 29 | 236. Lowest Common Ancestor of a Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
 
 | 30 | 3471. Find the Largest Almost Missing Integer | LeetCode | Hash Table | Easy | Choose a type |
+
+| 31 | 442. Find All Duplicates in an Array | LeetCode | Hash Table | Medium | Choose a type |
