@@ -64,3 +64,5 @@
 | 30 | 3471. Find the Largest Almost Missing Integer | LeetCode | Hash Table | Easy | Choose a type |
 
 | 31 | 442. Find All Duplicates in an Array | LeetCode | Hash Table | Medium | Choose a type |
+
+| 32 | 1590. Make Sum Divisible by P | LeetCode | Prefix Sum | Medium | Choose a type |
