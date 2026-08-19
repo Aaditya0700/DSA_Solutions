@@ -74,3 +74,5 @@
 | 35 | 19. Remove Nth Node From End of List | LeetCode | Linked List | Medium | Choose a type |
 
 | 36 | 230. Kth Smallest Element in a BST | LeetCode | Binary Tree | Medium | Choose a type |
+
+| 37 | 200. Number of Islands | LeetCode | Depth-First Search | Medium | Choose a type |
