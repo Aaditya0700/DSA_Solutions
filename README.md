@@ -76,3 +76,5 @@
 | 36 | 230. Kth Smallest Element in a BST | LeetCode | Binary Tree | Medium | Choose a type |
 
 | 37 | 200. Number of Islands | LeetCode | Depth-First Search | Medium | Choose a type |
+
+| 38 | 3069. Distribute Elements Into Two Arrays I | LeetCode | Array | Easy | Choose a type |
