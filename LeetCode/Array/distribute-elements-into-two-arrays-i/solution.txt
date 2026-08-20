@@ -1,0 +1,25 @@
+class Solution {
+    public int[] resultArray(int[] nums) {
+        List<Integer> a=new ArrayList<>();
+        List<Integer> b=new ArrayList<>();
+        for(int i=0;i<nums.length;i++){
+            if(a.size()==0)a.add(nums[i]);
+            else if(b.size()==0)b.add(nums[i]);
+            else{
+                if(a.get(a.size()-1) > b.get(b.size()-1)) a.add(nums[i]);
+                else b.add(nums[i]);
+            }
+        }
+        int idx=0;
+        System.out.println(a);
+        System.out.println(b);
+        while(idx<a.size()){
+            nums[idx]=a.get(idx++);
+        }
+        int i=0;
+        while(i<b.size()){
+            nums[idx++]=b.get(i++);
+        }
+        return nums;
+    }
+}
