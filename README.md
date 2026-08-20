@@ -80,3 +80,5 @@
 | 38 | 3069. Distribute Elements Into Two Arrays I | LeetCode | Array | Easy | Choose a type |
 
 | 39 | 974. Subarray Sums Divisible by K | LeetCode | Hash Table | Medium | Choose a type |
+
+| 40 | 207. Course Schedule | LeetCode | Graph Theory | Medium | Choose a type |
