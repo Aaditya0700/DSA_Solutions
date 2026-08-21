@@ -82,3 +82,5 @@
 | 39 | 974. Subarray Sums Divisible by K | LeetCode | Hash Table | Medium | Choose a type |
 
 | 40 | 207. Course Schedule | LeetCode | Graph Theory | Medium | Choose a type |
+
+| 41 | 1497. Check If Array Pairs Are Divisible by k | LeetCode | Hash Table | Medium | Choose a type |
