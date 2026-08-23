@@ -90,3 +90,5 @@
 | 43 | 3751. Total Waviness of Numbers in Range I | LeetCode | Math | Medium | Choose a type |
 
 | 44 | 2265. Count Nodes Equal to Average of Subtree | LeetCode | Binary Tree | Medium | Choose a type |
+
+| 45 | 1302. Deepest Leaves Sum | LeetCode | Breadth-First Search | Medium | Choose a type |
