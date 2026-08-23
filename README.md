@@ -96,3 +96,5 @@
 | 46 | 654. Maximum Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
 
 | 47 | 2610. Convert an Array Into a 2D Array With Conditions | LeetCode | Array | Medium | Choose a type |
+
+| 48 | 2044. Count Number of Maximum Bitwise-OR Subsets | LeetCode | Backtracking | Medium | Choose a type |
