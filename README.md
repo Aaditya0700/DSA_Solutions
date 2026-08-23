@@ -114,3 +114,5 @@
 | 55 | 3918. Sum of Primes Between Number and Its Reverse | LeetCode | Math | Medium | Choose a type |
 
 | 56 | 3159. Find Occurrences of an Element in an Array | LeetCode | Hash Table | Medium | Choose a type |
+
+| 57 | 216. Combination Sum III | LeetCode | Backtracking | Medium | Choose a type |
