@@ -94,3 +94,5 @@
 | 45 | 1302. Deepest Leaves Sum | LeetCode | Breadth-First Search | Medium | Choose a type |
 
 | 46 | 654. Maximum Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
+
+| 47 | 2610. Convert an Array Into a 2D Array With Conditions | LeetCode | Array | Medium | Choose a type |
