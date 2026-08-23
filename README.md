@@ -88,3 +88,5 @@
 | 42 | 904. Fruit Into Baskets | LeetCode | Sliding Window | Medium | Choose a type |
 
 | 43 | 3751. Total Waviness of Numbers in Range I | LeetCode | Math | Medium | Choose a type |
+
+| 44 | 2265. Count Nodes Equal to Average of Subtree | LeetCode | Binary Tree | Medium | Choose a type |
