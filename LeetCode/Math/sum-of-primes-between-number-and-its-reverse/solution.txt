@@ -1,0 +1,27 @@
+class Solution {
+    boolean isPrime(int n){
+        if(n==1)return false;
+        for(int i=2;i<=Math.sqrt(n);i++){
+            if(n%i==0)return false;
+        }
+        return true;
+    }
+    public int sumOfPrimesInRange(int n) {
+        int s=n;
+        int rev=0;
+        while(n!=0){
+            rev=rev*10+(n%10);
+            n/=10;
+        }
+        int sum=0;
+        int st=Math.min(s,rev);
+        int end=Math.max(s,rev);
+        for(int i=st;i<=end;i++){
+            if(isPrime(i)){
+                System.out.println(i);
+                sum+=i;
+            }
+        }
+        return sum;
+    }
+}
