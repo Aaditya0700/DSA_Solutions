@@ -98,3 +98,5 @@
 | 47 | 2610. Convert an Array Into a 2D Array With Conditions | LeetCode | Array | Medium | Choose a type |
 
 | 48 | 2044. Count Number of Maximum Bitwise-OR Subsets | LeetCode | Backtracking | Medium | Choose a type |
+
+| 49 | 3211. Generate Binary Strings Without Adjacent Zeros | LeetCode | Backtracking | Medium | Choose a type |
