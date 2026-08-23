@@ -1,0 +1,20 @@
+class Solution {
+    public int totalWaviness(int num1, int num2) {
+        int count=0;
+        for(int j=num1;j<=num2;j++){
+            List<Integer> t =new ArrayList<>();
+            int num=j;
+            while(num!=0){
+                t.add(num%10);
+                num/=10;
+            }
+            
+            for(int i=1;i<t.size()-1;i++){
+                if((t.get(i)>t.get(i-1) && t.get(i)>t.get(i+1) ) || (t.get(i)<t.get(i-1) && t.get(i)<t.get(i+1) )  ){
+                    count++;
+                }
+            }
+        }
+        return count;
+    }
+}
