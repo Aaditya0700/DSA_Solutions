@@ -102,3 +102,5 @@
 | 49 | 3211. Generate Binary Strings Without Adjacent Zeros | LeetCode | Backtracking | Medium | Choose a type |
 
 | 50 | 2433. Find The Original Array of Prefix Xor | LeetCode | Bit Manipulation | Medium | Choose a type |
+
+| 51 | 1630. Arithmetic Subarrays | LeetCode | Sorting | Medium | Choose a type |
