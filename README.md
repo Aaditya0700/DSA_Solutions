@@ -104,3 +104,5 @@
 | 50 | 2433. Find The Original Array of Prefix Xor | LeetCode | Bit Manipulation | Medium | Choose a type |
 
 | 51 | 1630. Arithmetic Subarrays | LeetCode | Sorting | Medium | Choose a type |
+
+| 52 | 950. Reveal Cards In Increasing Order | LeetCode | Queue | Medium | Choose a type |
