@@ -108,3 +108,5 @@
 | 52 | 950. Reveal Cards In Increasing Order | LeetCode | Queue | Medium | Choose a type |
 
 | 53 | 1551. Minimum Operations to Make Array Equal | LeetCode | Math | Medium | Choose a type |
+
+| 54 | 1980. Find Unique Binary String | LeetCode | Backtracking | Medium | Choose a type |
