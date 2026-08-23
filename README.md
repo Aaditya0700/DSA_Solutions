@@ -92,3 +92,5 @@
 | 44 | 2265. Count Nodes Equal to Average of Subtree | LeetCode | Binary Tree | Medium | Choose a type |
 
 | 45 | 1302. Deepest Leaves Sum | LeetCode | Breadth-First Search | Medium | Choose a type |
+
+| 46 | 654. Maximum Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
