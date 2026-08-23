@@ -1,0 +1,24 @@
+class Solution {
+    static int count=0;
+    static void solve(int nums[],int idx,int curr,int or){
+        if(idx==nums.length){
+            if(curr==or){
+                count++;
+            }
+            return ;
+        }
+        
+        solve(nums,idx+1,nums[idx]|curr,or);
+        solve(nums,idx+1,curr,or);
+    }
+    public int countMaxOrSubsets(int[] nums) {
+        int or=nums[0];
+        
+        for(int i=1;i<nums.length;i++){
+            or |= nums[i];
+        }
+        count=0;
+        solve(nums,0,0,or);
+        return count;
+    }
+}
