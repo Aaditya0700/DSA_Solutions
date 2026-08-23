@@ -86,3 +86,5 @@
 | 41 | 1497. Check If Array Pairs Are Divisible by k | LeetCode | Hash Table | Medium | Choose a type |
 
 | 42 | 904. Fruit Into Baskets | LeetCode | Sliding Window | Medium | Choose a type |
+
+| 43 | 3751. Total Waviness of Numbers in Range I | LeetCode | Math | Medium | Choose a type |
