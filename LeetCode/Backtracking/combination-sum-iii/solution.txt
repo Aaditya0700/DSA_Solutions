@@ -1,0 +1,23 @@
+class Solution {
+    void solve(List<List<Integer>> ans ,List<Integer> list,int idx,int n,int k){
+        if(idx>n || list.size()==k){
+            int sum=0;
+            for(int i :list)sum+=i;
+            if(sum==n && list.size()==k)ans.add(new ArrayList(list));
+            return;
+        }
+        for(int i=idx;i<=9;i++){
+            list.add(i);
+            solve(ans,list,i+1,n,k);
+            list.remove(list.size()-1);
+        }
+
+
+    }
+    public List<List<Integer>> combinationSum3(int k, int n) {
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> list=new ArrayList<>();
+        solve(ans,list,1,n,k);
+        return ans;
+    }
+}
