@@ -120,3 +120,5 @@
 | 58 | 2225. Find Players With Zero or One Losses | LeetCode | Hash Table | Medium | Choose a type |
 
 | 59 | 1456. Maximum Number of Vowels in a Substring of Given Length | LeetCode | Sliding Window | Medium | Choose a type |
+
+| 60 | 1004. Max Consecutive Ones III | LeetCode | Sliding Window | Medium | Choose a type |
