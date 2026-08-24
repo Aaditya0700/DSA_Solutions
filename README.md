@@ -118,3 +118,5 @@
 | 57 | 216. Combination Sum III | LeetCode | Backtracking | Medium | Choose a type |
 
 | 58 | 2225. Find Players With Zero or One Losses | LeetCode | Hash Table | Medium | Choose a type |
+
+| 59 | 1456. Maximum Number of Vowels in a Substring of Given Length | LeetCode | Sliding Window | Medium | Choose a type |
