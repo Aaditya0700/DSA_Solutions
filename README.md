@@ -116,3 +116,5 @@
 | 56 | 3159. Find Occurrences of an Element in an Array | LeetCode | Hash Table | Medium | Choose a type |
 
 | 57 | 216. Combination Sum III | LeetCode | Backtracking | Medium | Choose a type |
+
+| 58 | 2225. Find Players With Zero or One Losses | LeetCode | Hash Table | Medium | Choose a type |
