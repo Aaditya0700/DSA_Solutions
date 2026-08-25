@@ -126,3 +126,5 @@
 | 61 | 1207. Unique Number of Occurrences | LeetCode | Hash Table | Easy | Choose a type |
 
 | 62 | 3718. Smallest Missing Multiple of K | LeetCode | Hash Table | Easy | Choose a type |
+
+| 63 | 389. Find the Difference | LeetCode | Hash Table | Easy | Choose a type |
