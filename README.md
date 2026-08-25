@@ -124,3 +124,5 @@
 | 60 | 1004. Max Consecutive Ones III | LeetCode | Sliding Window | Medium | Choose a type |
 
 | 61 | 1207. Unique Number of Occurrences | LeetCode | Hash Table | Easy | Choose a type |
+
+| 62 | 3718. Smallest Missing Multiple of K | LeetCode | Hash Table | Easy | Choose a type |
