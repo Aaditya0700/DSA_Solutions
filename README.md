@@ -130,3 +130,5 @@
 | 63 | 389. Find the Difference | LeetCode | Hash Table | Easy | Choose a type |
 
 | 64 | 606. Construct String from Binary Tree | LeetCode | Depth-First Search | Medium | Choose a type |
+
+| 65 | 257. Binary Tree Paths | LeetCode | Backtracking | Easy | Choose a type |
