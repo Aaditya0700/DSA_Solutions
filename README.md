@@ -132,3 +132,5 @@
 | 64 | 606. Construct String from Binary Tree | LeetCode | Depth-First Search | Medium | Choose a type |
 
 | 65 | 257. Binary Tree Paths | LeetCode | Backtracking | Easy | Choose a type |
+
+| 66 | 404. Sum of Left Leaves | LeetCode | Depth-First Search | Easy | Choose a type |
