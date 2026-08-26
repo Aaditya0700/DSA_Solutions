@@ -134,3 +134,5 @@
 | 65 | 257. Binary Tree Paths | LeetCode | Backtracking | Easy | Choose a type |
 
 | 66 | 404. Sum of Left Leaves | LeetCode | Depth-First Search | Easy | Choose a type |
+
+| 67 | GFG. Largest subarray with 0 sum | GeeksforGeeks | Hash | N/A | Java (21) |
