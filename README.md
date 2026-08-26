@@ -136,3 +136,5 @@
 | 66 | 404. Sum of Left Leaves | LeetCode | Depth-First Search | Easy | Choose a type |
 
 | 67 | GFG. Largest subarray with 0 sum | GeeksforGeeks | Hash | N/A | Java (21) |
+
+| 68 | 637. Average of Levels in Binary Tree | LeetCode | Breadth-First Search | Easy | Choose a type |
