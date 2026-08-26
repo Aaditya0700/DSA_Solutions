@@ -138,3 +138,5 @@
 | 67 | GFG. Largest subarray with 0 sum | GeeksforGeeks | Hash | N/A | Java (21) |
 
 | 68 | 637. Average of Levels in Binary Tree | LeetCode | Breadth-First Search | Easy | Choose a type |
+
+| 69 | 77. Combinations | LeetCode | Backtracking | Medium | Choose a type |
