@@ -140,3 +140,5 @@
 | 68 | 637. Average of Levels in Binary Tree | LeetCode | Breadth-First Search | Easy | Choose a type |
 
 | 69 | 77. Combinations | LeetCode | Backtracking | Medium | Choose a type |
+
+| 70 | 76. Minimum Window Substring | LeetCode | Sliding Window | Hard | Choose a type |
