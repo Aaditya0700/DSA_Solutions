@@ -142,3 +142,5 @@
 | 69 | 77. Combinations | LeetCode | Backtracking | Medium | Choose a type |
 
 | 70 | 76. Minimum Window Substring | LeetCode | Sliding Window | Hard | Choose a type |
+
+| 71 | 47. Permutations II | LeetCode | Backtracking | Medium | Choose a type |
