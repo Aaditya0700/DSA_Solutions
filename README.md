@@ -144,3 +144,5 @@
 | 70 | 76. Minimum Window Substring | LeetCode | Sliding Window | Hard | Choose a type |
 
 | 71 | 47. Permutations II | LeetCode | Backtracking | Medium | Choose a type |
+
+| 72 | 859. Buddy Strings | LeetCode | Hash Table | Easy | Choose a type |
