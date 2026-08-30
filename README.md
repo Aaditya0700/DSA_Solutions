@@ -148,3 +148,5 @@
 | 72 | 859. Buddy Strings | LeetCode | Hash Table | Easy | Choose a type |
 
 | 73 | 2799. Count Complete Subarrays in an Array | LeetCode | Sliding Window | Medium | Choose a type |
+
+| 74 | 1876. Substrings of Size Three with Distinct Characters | LeetCode | Sliding Window | Easy | Choose a type |
