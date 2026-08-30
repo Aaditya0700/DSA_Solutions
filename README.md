@@ -146,3 +146,5 @@
 | 71 | 47. Permutations II | LeetCode | Backtracking | Medium | Choose a type |
 
 | 72 | 859. Buddy Strings | LeetCode | Hash Table | Easy | Choose a type |
+
+| 73 | 2799. Count Complete Subarrays in an Array | LeetCode | Sliding Window | Medium | Choose a type |
