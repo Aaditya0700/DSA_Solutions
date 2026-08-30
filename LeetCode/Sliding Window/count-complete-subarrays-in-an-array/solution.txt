@@ -1,0 +1,23 @@
+class Solution {
+    public int countCompleteSubarrays(int[] nums) {
+        int count=0;
+        int n=nums.length;
+        HashMap<Integer,Integer> map=new HashMap<>();
+        int left=0;
+        HashSet<Integer> t = new HashSet<>();
+        for(int i:nums)t.add(i);
+        int k=t.size();
+        System.out.println(k);
+
+        for(int right=0;right<nums.length;right++){
+            map.put(nums[right],map.getOrDefault(nums[right],0)+1);
+            while(k==map.size()){
+                count+=n-right;
+                map.put(nums[left],map.get(nums[left])-1);
+                if(map.get(nums[left])==0)map.remove(nums[left]);
+                left++;
+            }
+        }
+        return count;
+    }
+}
