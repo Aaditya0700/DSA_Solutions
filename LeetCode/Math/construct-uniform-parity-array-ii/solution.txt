@@ -1,0 +1,11 @@
+class Solution {
+    public boolean uniformArray(int[] nums1) {
+        int s=Integer.MAX_VALUE;
+        boolean isOdd=false;
+        for(int i:nums1){
+            s=Math.min(i,s);
+            if(i%2==1)isOdd=true;
+        }
+        return (!isOdd || s%2==1);
+    }
+}
