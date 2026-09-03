@@ -152,3 +152,5 @@
 | 74 | 1876. Substrings of Size Three with Distinct Characters | LeetCode | Sliding Window | Easy | Choose a type |
 
 | 75 | 575. Distribute Candies | LeetCode | Hash Table | Easy | Choose a type |
+
+| 76 | 3876. Construct Uniform Parity Array II | LeetCode | Math | Medium | Choose a type |
