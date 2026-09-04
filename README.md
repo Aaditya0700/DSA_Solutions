@@ -156,3 +156,5 @@
 | 76 | 3876. Construct Uniform Parity Array II | LeetCode | Math | Medium | Choose a type |
 
 | 77 | 3903. Smallest Stable Index I | LeetCode | Prefix Sum | Easy | Choose a type |
+
+| 78 | 695. Max Area of Island | LeetCode | Depth-First Search | Medium | Choose a type |
