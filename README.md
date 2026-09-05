@@ -162,3 +162,5 @@
 | 79 | 1848. Minimum Distance to the Target Element | LeetCode | Array | Easy | Choose a type |
 
 | 80 | 547. Number of Provinces | LeetCode | Graph Theory | Medium | Choose a type |
+
+| 81 | 2342. Max Sum of a Pair With Equal Sum of Digits | LeetCode | Hash Table | Medium | Choose a type |
