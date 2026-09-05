@@ -160,3 +160,5 @@
 | 78 | 695. Max Area of Island | LeetCode | Depth-First Search | Medium | Choose a type |
 
 | 79 | 1848. Minimum Distance to the Target Element | LeetCode | Array | Easy | Choose a type |
+
+| 80 | 547. Number of Provinces | LeetCode | Graph Theory | Medium | Choose a type |
