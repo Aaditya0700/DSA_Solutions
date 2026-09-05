@@ -1,0 +1,21 @@
+class Solution {
+    public int maximumSum(int[] nums) {
+        int max=Integer.MIN_VALUE;
+        Map<Integer,Integer> map=new HashMap<>();
+        for(int i :nums){
+            int sum=0;
+            int num=i;
+            while(num!=0){
+                sum+=num%10;
+                num/=10;
+            }
+            if(map.containsKey(sum)){
+                max=Math.max(max,i+map.get(sum));
+                if(i>map.get(sum))map.put(sum,i);
+            }else{
+                map.put(sum,i);
+            }
+        }
+        return max != Integer.MIN_VALUE? max : -1;
+    }
+}
