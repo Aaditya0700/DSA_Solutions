@@ -158,3 +158,5 @@
 | 77 | 3903. Smallest Stable Index I | LeetCode | Prefix Sum | Easy | Choose a type |
 
 | 78 | 695. Max Area of Island | LeetCode | Depth-First Search | Medium | Choose a type |
+
+| 79 | 1848. Minimum Distance to the Target Element | LeetCode | Array | Easy | Choose a type |
