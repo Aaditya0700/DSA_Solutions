@@ -164,3 +164,5 @@
 | 80 | 547. Number of Provinces | LeetCode | Graph Theory | Medium | Choose a type |
 
 | 81 | 2342. Max Sum of a Pair With Equal Sum of Digits | LeetCode | Hash Table | Medium | Choose a type |
+
+| 82 | 860. Lemonade Change | LeetCode | Greedy | Easy | Choose a type |
