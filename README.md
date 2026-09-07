@@ -166,3 +166,5 @@
 | 81 | 2342. Max Sum of a Pair With Equal Sum of Digits | LeetCode | Hash Table | Medium | Choose a type |
 
 | 82 | 860. Lemonade Change | LeetCode | Greedy | Easy | Choose a type |
+
+| 83 | 1609. Even Odd Tree | LeetCode | Breadth-First Search | Medium | Choose a type |
