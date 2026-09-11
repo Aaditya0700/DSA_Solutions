@@ -168,3 +168,5 @@
 | 82 | 860. Lemonade Change | LeetCode | Greedy | Easy | Choose a type |
 
 | 83 | 1609. Even Odd Tree | LeetCode | Breadth-First Search | Medium | Choose a type |
+
+| 84 | 3483. Unique 3-Digit Even Numbers | LeetCode | Recursion | Easy | Java |
