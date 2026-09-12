@@ -170,3 +170,5 @@
 | 83 | 1609. Even Odd Tree | LeetCode | Breadth-First Search | Medium | Choose a type |
 
 | 84 | 3483. Unique 3-Digit Even Numbers | LeetCode | Recursion | Easy | Java |
+
+| 85 | 2778. Sum of Squares of Special Elements | LeetCode | Array | Easy | Java |
