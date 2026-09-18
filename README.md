@@ -172,3 +172,5 @@
 | 84 | 3483. Unique 3-Digit Even Numbers | LeetCode | Recursion | Easy | Java |
 
 | 85 | 2778. Sum of Squares of Special Elements | LeetCode | Array | Easy | Java |
+
+| 86 | 3688. Bitwise OR of Even Numbers in an Array | LeetCode | Array | Easy | Java |
