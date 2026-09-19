@@ -174,3 +174,5 @@
 | 85 | 2778. Sum of Squares of Special Elements | LeetCode | Array | Easy | Java |
 
 | 86 | 3688. Bitwise OR of Even Numbers in an Array | LeetCode | Array | Easy | Java |
+
+| 87 | 2085. Count Common Words With One Occurrence | LeetCode | Hash Table | Easy | Java |
