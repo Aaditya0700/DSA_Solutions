@@ -176,3 +176,5 @@
 | 86 | 3688. Bitwise OR of Even Numbers in an Array | LeetCode | Array | Easy | Java |
 
 | 87 | 2085. Count Common Words With One Occurrence | LeetCode | Hash Table | Easy | Java |
+
+| 88 | 814. Binary Tree Pruning | LeetCode | Depth-First Search | Medium | Java |
